@@ -1,0 +1,2 @@
+git+git://github.com/allenai/allennlp
+pytorch-transformers==1.2.0
