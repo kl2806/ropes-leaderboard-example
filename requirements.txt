@@ -1,2 +1,2 @@
-git+git://github.com/allenai/allennlp
+git+git://github.com/allenai/allennlp.git@3c38347a728a4a961fd780c009d77055ca02032c
 pytorch-transformers==1.2.0
